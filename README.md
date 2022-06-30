@@ -1,4 +1,4 @@
-# CryptoTransferDist
+# CryptoTransferDist(optimized output version with npm run build)
 
 This is a crypto transfer application deployed on Rinkeby testnet. The web UI was implemented with React, the smart contract was written with ethers.js and deployed with Alchemy. Besides that, it also used GIPHY developers API for gifs.
 
